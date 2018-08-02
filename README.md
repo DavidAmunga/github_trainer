@@ -5,9 +5,4 @@ This is a simple readme file
 ## HEADING
 I hope this isn't much of a problems
 
-Update in stage
-
-More updates in working directory
-
-Now editing on update-readme branch
-Updated locally
+Updates made on master on Github before Rebase
